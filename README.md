@@ -11,3 +11,4 @@ cd sms-otp
 php otp.php
 ```
 # Preview
+<img src="preview.jpg" width="300px" height="200px">
