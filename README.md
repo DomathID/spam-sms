@@ -6,6 +6,7 @@ Tools Spam SMS 2023
 ```
 pkg install git -y
 pkg install php -y
+pkg install curl -y
 git clone https://github.com/DomathID/sms-otp.git
 cd sms-otp
 php otp.php
