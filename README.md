@@ -13,3 +13,6 @@ php gas.php
 ```
 # Preview
 <img src="preview.jpg" width="300px" height="200px">
+
+# FYI
+There are some providers that are specialised, such as provider 3, Telkomsel, Indosat, Depending on the File Name.php
