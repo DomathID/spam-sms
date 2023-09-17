@@ -16,3 +16,5 @@ php gas.php
 
 # FYI
 There are some providers that are specialised, such as provider 3, Telkomsel, Indosat, Depending on the File Name.php
+Ref: 
+<a href="https://www.yukinoshita.web.id/2023/09/script-termux-spam-sms-unlimited-three.html" rel="sponsored">https://www.yukinoshita.web.id/2023/09/script-termux-spam-sms-unlimited-three.html</a> 
